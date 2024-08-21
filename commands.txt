@@ -1,0 +1,3 @@
+ Spinning up mainnet fork 
+ 
+ anvil --fork-url https://arb-mainnet.g.alchemy.com/v2/edxrzo-1tTGp7V44MMKOKd8bqb8l2hMr
